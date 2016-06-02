@@ -1,0 +1,14 @@
+{
+  "name": "@risingstack/find-port",
+  "version": "1.0.0",
+  "description": "Find open port",
+  "main": "index.js",
+  "keywords": [
+    "find",
+    "open",
+    "port",
+    "promise"
+  ],
+  "author": "RisingStack",
+  "license": "MIT"
+}
